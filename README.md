@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Emeka Michael Nzeopara</h1>
 <h3 align="center">A Cybersecurity Engineer with array of skills in Vulnerability Assessment, Network Security, Secure Code Development and Cloud DevOps</h3>
 
