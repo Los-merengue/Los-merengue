@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [Wagtail App](https://github.com/Los-merengue/wagtail)
 
-- 🌱 I’m currently learning **Jenkins, Gitlab, DevOps with GCP, Secure Code on OWASP Top 10**
+- 🌱 I’m currently learning **OpenShift, GCP, Secure Code on OWASP Top 10**
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-
-- 🤝 I’m looking for help with [Wagtail App](https://github.com/Los-merengue/wagtail)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Los-merengue](https://github.com/Los-merengue)
 
