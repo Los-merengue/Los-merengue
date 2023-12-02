@@ -17,11 +17,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Los-merengue](https://medium.com/@Los-merengue)
 
-- 💬 Ask me about **Virtualization, CircleCI, IaaC**
+- 💬 Ask me about **Security Concepts, Continuous Delivery**
 
-- 📫 How to reach me **michaelsopara@gmail.com**
-
-- ⚡ Fun fact **I Enjoy a time with friends especially over a Drink and Pizza**
+- ⚡ Fun fact **I enjoy time with Friends and Family**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
