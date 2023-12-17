@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emeka Michael Nzeopara</h1>
+<h1 align="center">Hi 👋, I'm Emeka</h1>
 <h3 align="center">A Cybersecurity Engineer with array of skills in Security and Cloud DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=los-merengue&label=Profile%20views&color=0e75b6&style=flat" alt="los-merengue" /> </p>
