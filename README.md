@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emeka Michael</h1>
+<h1 align="center">Hi 👋, I'm Emeka</h1>
 <h3 align="center">A Cybersecurity Engineer with array of skills in Security and Cloud DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=los-merengue&label=Profile%20views&color=0e75b6&style=flat" alt="los-merengue" /> </p>
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Los-merengue](https://medium.com/@Los-merengue)
 
-- 💬 Ask me about **Security Concepts, Continuous Delivery**
+- 💬 Ask me about **Security Concepts, Cloud Continuous Delivery**
 
 - ⚡ Fun fact **I enjoy time with Friends and Family**
 
