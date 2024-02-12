@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=los-merengue" alt="los-merengue" /></a> </p>
 
-- 🔭 I’m currently working on [Wagtail App](https://github.com/Los-merengue/wagtail)
+- 🔭 I’m currently working on developing scripts to Audit the Security of the Cloud. Check out [CloudSec](https://github.com/Los-merengue/CloudSec)
 
 - 🌱 I’m currently learning **OpenShift, GCP, Secure Code on OWASP Top 10**
 
