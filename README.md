@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Los-merengue](https://medium.com/@Los-merengue)
 
-- 💬 Ask me about **Security Concepts, Cloud Continuous Delivery**
+- 💬 Ask me about **Security Concepts, Cloud and Continuous Delivery**
 
 - ⚡ Fun fact **I enjoy time with Friends and Family**
 
