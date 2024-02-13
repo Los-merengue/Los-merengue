@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on developing scripts to Audit the Security of the Cloud. Check out [CloudSec](https://github.com/Los-merengue/CloudSec_Scripts)
 
-- 🌱 I’m currently learning **OpenShift, GCP, Secure Code on OWASP Top 10**
+- 🌱 I’m currently learning **OpenShift, Secure Code on OWASP Top 10**
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
