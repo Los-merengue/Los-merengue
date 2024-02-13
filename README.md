@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Security Concepts, Cloud and Continuous Delivery**
 
-- ⚡ Fun fact **I enjoy time with Friends and Family**
+- ⚡ Fun fact **I am a Hip-Hop Head, you can confuse me to being a rapper.😄**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
