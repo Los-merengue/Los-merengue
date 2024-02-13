@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Security Concepts, Cloud and Continuous Delivery**
 
-- ⚡ Fun fact **I am a Hip-Hop Head, you can confuse me to being a rapper.😄**
+- ⚡ Fun fact **I am a Hip-Hop Head, my style confuses people to think I am a Rapper.😄**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
