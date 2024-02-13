@@ -9,7 +9,7 @@
 
 - 🌱 I’m always learning Secure Web Application Development using **OWASP Top 10**
 
-- 👯 I’m looking to collaborate on securing platforms like [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- 👯 I’m looking to collaborate on securing platforms like [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes), hence this [Project](https://github.com/Los-merengue/OpenShift)
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Los-merengue)
 
